@@ -1,5 +1,8 @@
+//@ts-ignore
 import ReactDOMServer from "https://dev.jspm.io/react-dom/server";
+//@ts-ignore
 import { React } from "https://unpkg.com/es-react";
+//@ts-ignore
 import { App } from "./app.tsx";
 
 export async function render() {

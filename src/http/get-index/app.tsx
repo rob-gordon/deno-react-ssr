@@ -1,3 +1,4 @@
+//@ts-ignore
 import React, { Component } from "https://unpkg.com/es-react";
 
 declare global {

@@ -1,3 +1,4 @@
+//@ts-ignore
 import { render } from "./render.tsx";
 
 export async function handler() {
